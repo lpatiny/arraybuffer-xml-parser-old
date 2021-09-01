@@ -1,6 +1,6 @@
 {
   "name": "arraybuffer-xml-parser",
-  "version": "0.0.0",
+  "version": "3.20.0",
   "description": "Parse XML files contained in an array buffer",
   "main": "lib/index.js",
   "module": "src/index.js",
